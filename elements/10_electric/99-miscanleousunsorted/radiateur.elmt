@@ -1,0 +1,49 @@
+<definition width="100" link_type="simple" orientation="dyyy" height="70" hotspot_x="49" hotspot_y="36" version="0.70" type="element">
+    <uuid uuid="{47e7036f-fc95-4134-a801-fc6fbd2cdae0}"/>
+    <names>
+        <name lang="fr">Radiateur électrique avec "fil pilote"</name>
+        <name lang="en">Electric heater with "fil pilote"</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: Kevin De Magalhaes (KDM)
+License: Free
+Website:
+Github:
+Year: 2019</informations>
+    <description>
+        <rect width="90" ry="2" style="line-style:normal;line-weight:normal;filling:gray;color:black" height="60" rx="2" y="-30" antialias="false" x="-45"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="31" y1="-29.0912" y2="28.9088" x1="31" antialias="false" end2="none" length2="1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:brun;color:brun" diameter="2" y="-11" antialias="false" x="-11"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="18" y1="-29" y2="29" x1="18" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="5" y1="-29" y2="29" x1="5" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="-7" y1="-29.0912" y2="28.9088" x1="-7" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="-33" y1="-29" y2="29" x1="-33" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end1="none" length1="1.5" x2="-20" y1="-29" y2="29" x1="-20" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length1="1.5" x2="-26" y1="5" y2="5" x1="-34" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length1="1.5" x2="-26" y1="-5" y2="-5" x1="-34" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length1="1.5" x2="-26" y1="0" y2="0" x1="-34" antialias="false" end2="none" length2="1.5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:blue" x2="-30" x3="45" y1="-10" y2="-20" x1="-30" antialias="false" y3="-20" closed="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:brun" x2="-30" x4="-10" x3="-10" y1="10" y4="8" y5="-5" y2="20" x1="-30" x5="-15" antialias="false" y3="20" closed="false"/>
+        <rect width="8" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="20" rx="0" y="-10" antialias="false" x="-34"/>
+        <rect width="11" ry="0" style="line-style:dashed;line-weight:thin;filling:none;color:black" height="19" rx="0" y="-8" antialias="false" x="-17"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" x4="44" x3="10" y1="2" y4="10" y2="2" x1="-6" antialias="false" y3="10" closed="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:brun" x2="-10" x3="-10" y1="-10" y2="-10" x1="44" antialias="false" y3="-6" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" end1="none" length1="1.5" x2="-10" y1="-30" y2="-10" x1="-10" antialias="false" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" end1="none" length1="1.5" x2="-30" y1="-20" y2="-30" x1="-30" antialias="false" end2="none" length2="1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:blue;color:blue" diameter="2" y="-21" antialias="false" x="-31"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="N" y="-22" x="36"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="FP" y="8" x="33"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="L" y="-22" x="-16"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="L" y="-12" x="36"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="N" y="-22" x="-37"/>
+        <dynamic_text uuid="{fbab709d-b6ef-4e02-9487-4b813eb85154}" Valignment="AlignVCenter" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" rotation="0" Halignment="AlignRight" y="-28" text_width="-1" z="26" x="-54">
+            <text/>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="e" y="10" x="45"/>
+        <terminal orientation="e" y="-20" x="45"/>
+        <terminal orientation="e" y="-10" x="45"/>
+        <terminal orientation="n" y="-30" x="-30"/>
+        <terminal orientation="n" y="-30" x="-10"/>
+    </description>
+</definition>
