@@ -1,0 +1,23 @@
+<definition orientation="dyyy" link_type="master" type="element" width="40" hotspot_x="20" hotspot_y="35" height="60" version="0.5">
+    <uuid uuid="{95d82fbc-7bfa-4023-b8ab-9f3bd4db554b}"/>
+    <names>
+        <name lang="de">Zähler zweiphasig</name>
+        <name lang="en">220V two phases meter</name>
+        <name lang="fr">Compteur 220V biphase</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">commutator</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <input y="-14.45" size="9" rotate="true" x="18" tagg="label" text="_"/>
+        <rect y="5" x="-10" antialias="false" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="9"/>
+        <rect y="-20" x="-10" antialias="false" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8"/>
+        <rect y="-25" x="-15" antialias="false" width="30" style="line-style:normal;line-weight:normal;filling:none;color:black" height="30"/>
+        <terminal orientation="n" y="-29" x="-5"/>
+        <terminal orientation="s" y="18" x="-5"/>
+        <terminal orientation="n" y="-29" x="5"/>
+        <terminal orientation="s" y="18" x="5"/>
+    </description>
+</definition>

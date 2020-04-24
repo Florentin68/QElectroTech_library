@@ -1,0 +1,51 @@
+<definition height="70" orientation="dyyy" hotspot_y="17" version="0.80" link_type="simple" hotspot_x="15" type="element" width="120">
+    <uuid uuid="{0b5e2546-3d56-48ab-a041-9dc9b45d4f6e}"/>
+    <names>
+        <name lang="en">IG5597 (NC)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine-manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Détecteur inductif</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">IG5597</elementInformation>
+        <elementInformation name="manufacturer" show="1">IFM</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <arc x="73" height="6" antialias="true" angle="-180" y="37" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90"/>
+        <line end2="none" antialias="false" x1="40" y1="25" length1="1.5" x2="50" y2="25" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="60" y1="40" length1="1.5" x2="50" y2="25" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="60" y1="40" length1="1.5" x2="70" y2="40" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="14" y1="14.5" length1="1.5" x2="14" y2="25.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <text x="78" text="1 (-)" y="35" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <rect x="70" height="2" antialias="false" rx="0" ry="0" y="39" width="6" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <line end2="none" antialias="false" x1="79" y1="40" length1="1.5" x2="83" y2="40" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <text x="78" text="4 (+)" y="-5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <arc x="73" height="6" antialias="true" angle="-180" y="-3" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90"/>
+        <rect x="70" height="2" antialias="false" rx="0" ry="0" y="-1" width="6" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <rect x="-10" height="40" antialias="false" rx="0" ry="0" y="0" width="50" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="79" y1="0" length1="1.5" x2="83" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text x="-60" z="16" frame="false" Valignment="AlignTop" text_from="ElementInfo" y="-19.5" uuid="{0da7b3b1-b334-4de5-9335-c9ac18bf9e99}" text_width="-1" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon antialias="false" x1="0" y1="20" y3="20" y4="30" x2="10" y2="10" x4="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="20"/>
+        <line end2="none" antialias="false" x1="6" y1="14.5" length1="1.5" x2="6" y2="25.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="40" y1="15" length1="1.5" x2="50" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="50" y1="15" length1="1.5" x2="60" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="60" y1="0" length1="1.5" x2="70" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="-5" y1="50" length1="1.5" x2="0" y2="50" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="0" y1="50" length1="1.5" x2="13" y2="45" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="12" y1="45" length1="1.5" x2="12" y2="50" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" antialias="false" x1="12" y1="50" length1="1.5" x2="17" y2="50" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <terminal x="83" orientation="e" y="0"/>
+        <terminal x="83" orientation="e" y="40"/>
+    </description>
+</definition>

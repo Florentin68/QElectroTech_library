@@ -1,0 +1,61 @@
+<definition height="130" hotspot_x="39" hotspot_y="60" type="element" width="90" orientation="dyyy" link_type="simple" version="0.80">
+    <uuid uuid="{bb25d1b1-e417-4f4f-b969-b621dd496e25}"/>
+    <names>
+        <name lang="en">WeMos D1 Mini Pro</name>
+        <name lang="fr">WeMos D1 Mini Pro</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text color="#000000" y="-3" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="RX"/>
+        <text color="#000000" y="-3" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="A0"/>
+        <text color="#000000" y="57" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="5V"/>
+        <text color="#000000" y="37" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D4"/>
+        <rect height="120" y="-55" x="-30" width="70" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="50" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="27" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D3"/>
+        <text color="#000000" y="7" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D1"/>
+        <text color="#000000" y="57" x="31" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" text="3V3"/>
+        <text color="#000000" y="47" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="G"/>
+        <rect height="10" y="20" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="-20" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="17" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D2"/>
+        <text color="#000000" y="37" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D7"/>
+        <rect height="10" y="-10" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="0" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="7" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D0"/>
+        <rect height="10" y="10" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="27" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D6"/>
+        <rect height="10" y="50" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="30" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="40" x="-30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="20" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="-13" x="-29" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="TX"/>
+        <rect height="10" y="-20" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="47" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D8"/>
+        <text color="#000000" y="-40" x="-16" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="WeMos"/>
+        <text color="#000000" y="17" x="31" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="D5"/>
+        <rect height="10" y="-10" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="0" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="10" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="30" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <rect height="10" y="40" x="30" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" rx="0"/>
+        <text color="#000000" y="-13" x="31" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" text="RST"/>
+        <terminal y="5" x="-35" orientation="w"/>
+        <terminal y="25" x="-35" orientation="w"/>
+        <terminal y="55" x="-35" orientation="w"/>
+        <terminal y="-15" x="45" orientation="e"/>
+        <terminal y="45" x="-35" orientation="w"/>
+        <terminal y="35" x="-35" orientation="w"/>
+        <terminal y="15" x="-35" orientation="w"/>
+        <terminal y="-5" x="-35" orientation="w"/>
+        <terminal y="-15" x="-35" orientation="w"/>
+        <terminal y="-5" x="45" orientation="e"/>
+        <terminal y="5" x="45" orientation="e"/>
+        <terminal y="15" x="45" orientation="e"/>
+        <terminal y="25" x="45" orientation="e"/>
+        <terminal y="35" x="45" orientation="e"/>
+        <terminal y="45" x="45" orientation="e"/>
+        <terminal y="55" x="45" orientation="e"/>
+    </description>
+</definition>

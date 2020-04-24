@@ -1,0 +1,19 @@
+<definition height="30" orientation="dyyy" hotspot_y="25" version="0.80" link_type="simple" hotspot_x="4" type="element" width="70">
+    <uuid uuid="{90f3781d-2ad9-46e2-b22a-88ff492d33e2}"/>
+    <names>
+        <name lang="fr">Etiquette de câble</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="0.5" height="19" antialias="false" rx="9" ry="9" y="-19.5" width="60" style="line-style:normal;line-weight:normal;filling:white;color:none"/>
+        <arc x="41" height="20" antialias="true" angle="180" y="-20" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270"/>
+        <arc x="0" height="20" antialias="true" angle="180" y="-20" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90"/>
+        <line end2="none" antialias="false" x1="10" y1="-20" length1="1.5" x2="50" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text x="9" z="5" frame="false" Valignment="AlignTop" text_from="ElementInfo" y="-21" uuid="{d4dc284d-91f6-48af-a90f-e28ae24fe362}" text_width="-1" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" antialias="false" x1="10" y1="0" length1="1.5" x2="50" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+    </description>
+</definition>

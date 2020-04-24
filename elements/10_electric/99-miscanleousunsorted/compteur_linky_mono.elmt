@@ -1,0 +1,47 @@
+<definition hotspot_y="77" type="element" width="60" hotspot_x="13" version="0.80" link_type="master" orientation="dyyy" height="90">
+    <uuid uuid="{f7bcfe69-c016-4181-a687-045db9c4a0bb}"/>
+    <names>
+        <name lang="fr">Compteur Linky monophasé</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="0" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="35"/>
+        <arc antialias="true" width="10" start="90" y="-66" angle="90" x="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc antialias="true" width="10" start="0" y="-66" angle="90" x="30" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc antialias="true" width="10" start="180" y="-10" angle="90" x="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc antialias="true" width="10" start="270" y="-10" angle="90" x="30" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-5" antialias="false" end2="none" length2="1.5" length1="1.5" x1="0" y2="-60" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <line y1="-5" antialias="false" end2="none" length2="1.5" length1="1.5" x1="40" y2="-60" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40"/>
+        <line y1="-66" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="-66" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="35"/>
+        <rect ry="0" antialias="false" width="30" y="-40" x="5" height="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-20" antialias="false" end2="none" length2="1.5" length1="1.5" x1="0" y2="-20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5"/>
+        <line y1="-20" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="-19" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5"/>
+        <line y1="-19" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="-17" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="7"/>
+        <line y1="-16" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="-15" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5"/>
+        <line y1="-15" antialias="false" end2="none" length2="1.5" length1="1.5" x1="5" y2="-15" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0"/>
+        <text text="Linky" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" y="-50" x="5" rotation="0"/>
+        <text text="HC" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" y="-15" x="8" rotation="0"/>
+        <terminal y="-70" orientation="n" x="30"/>
+        <terminal y="4" orientation="s" x="10"/>
+        <terminal y="-70" orientation="n" x="10"/>
+        <terminal y="-15" orientation="w" x="-5"/>
+        <terminal y="-20" orientation="w" x="-5"/>
+        <terminal y="4" orientation="s" x="30"/>
+    </description>
+</definition>

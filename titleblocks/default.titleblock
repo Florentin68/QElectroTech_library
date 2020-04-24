@@ -1,0 +1,119 @@
+<titleblocktemplate name="default_fm">
+    <information></information>
+    <logos/>
+    <grid cols="t22%;r100%;t22%;" rows="25;25;">
+        <field name="author" valign="center" displaylabel="true" col="0" row="0" hadjust="true" align="left">
+            <value>
+                <translation lang="en">%author</translation>
+            </value>
+            <label>
+                <translation lang="el">Σχεδίαση</translation>
+                <translation lang="pt">Autor</translation>
+                <translation lang="en">Author</translation>
+                <translation lang="fr">Auteur</translation>
+                <translation lang="it">Autore</translation>
+                <translation lang="hr">Autor</translation>
+                <translation lang="ca">Autor</translation>
+                <translation lang="ru">Автор</translation>
+                <translation lang="cs">Autor</translation>
+                <translation lang="de">Author</translation>
+                <translation lang="es">Autor</translation>
+                <translation lang="ro">Autor</translation>
+                <translation lang="pl">Autor</translation>
+                <translation lang="ar">المؤلف</translation>
+            </label>
+        </field>
+        <field name="title" valign="center" displaylabel="false" col="1" row="0" hadjust="true" align="center">
+            <value>
+                <translation lang="en">%title</translation>
+            </value>
+            <label>
+                <translation lang="pt">Título</translation>
+                <translation lang="en">Title</translation>
+                <translation lang="fr">Titre</translation>
+                <translation lang="it">Titolo</translation>
+                <translation lang="hr">Naslov</translation>
+                <translation lang="ca">Títol</translation>
+                <translation lang="ru">Название</translation>
+                <translation lang="cs">Název</translation>
+                <translation lang="de">Titel</translation>
+                <translation lang="es">Título</translation>
+                <translation lang="ro">Titlu</translation>
+                <translation lang="pl">Tytuł</translation>
+                <translation lang="ar">عنوان</translation>
+            </label>
+        </field>
+        <field name="file" valign="center" displaylabel="true" col="2" row="0" hadjust="true" align="left">
+            <value>
+                <translation lang="en">%filename</translation>
+            </value>
+            <label>
+                <translation lang="el">Αρχείο</translation>
+                <translation lang="pt">Ficheiro</translation>
+                <translation lang="en">File</translation>
+                <translation lang="fr">Fichier</translation>
+                <translation lang="it">File</translation>
+                <translation lang="hr">Datoteka</translation>
+                <translation lang="ca">Fitxer</translation>
+                <translation lang="ru">Файл</translation>
+                <translation lang="cs">Soubor</translation>
+                <translation lang="de">Datei</translation>
+                <translation lang="es">Archivo</translation>
+                <translation lang="ro">Fisier</translation>
+                <translation lang="pl">Plik</translation>
+                <translation lang="ar">ملف</translation>
+            </label>
+        </field>
+        <field name="date" valign="center" displaylabel="true" col="0" row="1" hadjust="true" align="left">
+            <value>
+                <translation lang="en">%date</translation>
+            </value>
+            <label>
+                <translation lang="el">Ημ/νία</translation>
+                <translation lang="pt">Data</translation>
+                <translation lang="en">Date</translation>
+                <translation lang="fr">Date</translation>
+                <translation lang="it">Data</translation>
+                <translation lang="hr">Datum</translation>
+                <translation lang="ca">Data</translation>
+                <translation lang="ru">Дата</translation>
+                <translation lang="cs">Datum</translation>
+                <translation lang="de">Datum</translation>
+                <translation lang="es">Fecha</translation>
+                <translation lang="ro">Data</translation>
+                <translation lang="pl">Data</translation>
+                <translation lang="ar">تاريخ</translation>
+            </label>
+        </field>
+        <field name="project" valign="center" displaylabel="false" col="1" row="1" hadjust="true" fontsize="9" align="center">
+            <value>
+                <translation lang="en">%projecttitle</translation>
+            </value>
+            <label>
+                <translation lang="en">Project</translation>
+                <translation lang="fr">Projet</translation>
+            </label>
+        </field>
+        <field name="folio" valign="center" displaylabel="true" col="2" row="1" hadjust="true" align="left">
+            <value>
+                <translation lang="en">%{folio-id}/%{folio-total}</translation>
+            </value>
+            <label>
+                <translation lang="el">Σελίδα</translation>
+                <translation lang="pt">Folha</translation>
+                <translation lang="en">Folio</translation>
+                <translation lang="fr">Folio</translation>
+                <translation lang="it">Foglio</translation>
+                <translation lang="hr">List</translation>
+                <translation lang="ca">Folio</translation>
+                <translation lang="ru">Фолио</translation>
+                <translation lang="cs">Folio</translation>
+                <translation lang="de">Seite</translation>
+                <translation lang="es">Folio</translation>
+                <translation lang="ro">Pagina</translation>
+                <translation lang="pl">Arkusz</translation>
+                <translation lang="ar">صفحة</translation>
+            </label>
+        </field>
+    </grid>
+</titleblocktemplate>
