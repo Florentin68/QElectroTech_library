@@ -11,5 +11,8 @@ Vous pouvez cloner ce répertoire dans votre dossier de bilbiothèque personnell
 
 ### Linux
 
-Le répertoire se trouve ici dans une installation standard sous Linux : `/home/{user}/.qet/`
+Le répertoire se trouve ici dans une installation standard sous Linux : `~/.qet/`
 
+### Windows
+
+Le répertoire se trouve ici dans une installation standard sous Windows : `%APPDATA%\qet`
