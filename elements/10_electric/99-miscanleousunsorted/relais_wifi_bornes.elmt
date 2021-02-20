@@ -1,0 +1,25 @@
+<definition hotspot_x="5" orientation="dyyy" version="0.80" hotspot_y="82" width="50" type="element" link_type="simple" height="90">
+    <uuid uuid="{8859234e-2d6d-4797-8f7b-833c3ba4f150}"/>
+    <names>
+        <name lang="en">Wi-Fi Relay switch module</name>
+        <name lang="fr">Module relais Wi-Fi</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x2="30" x3="25.5" y1="-5" y2="-29" y3="-42.5" closed="false" x1="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="0" ry="0" y="-60" rx="0" antialias="false" width="40" height="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="28" y="-74" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="10" x3="5.5" y1="-5" y2="-29" y3="-42.5" closed="false" x1="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="28" y="-5" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="8" y="-74" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="10" y1="-70" y2="-43" closed="false" x1="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="30" y1="-70" y2="-43" closed="false" x1="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="8" y="-5" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" x2="27" y1="-36" y2="-36" end2="none" x1="10" antialias="false" end1="none" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black"/>
+        <terminal x="10" orientation="s" y="-1"/>
+        <terminal x="30" orientation="n" y="-74"/>
+        <terminal x="30" orientation="s" y="-1"/>
+        <terminal x="10" orientation="n" y="-74"/>
+    </description>
+</definition>

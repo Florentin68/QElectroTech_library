@@ -1,0 +1,47 @@
+<definition height="70" width="110" orientation="dyyy" link_type="simple" type="element" hotspot_x="5" hotspot_y="65" version="0.80">
+    <uuid uuid="{96316a87-a484-4619-97ab-b74ee3d05c11}"/>
+    <names>
+        <name lang="fr">Module de contrôle bidirectionnel (ZigBee)</name>
+        <name lang="en">Two way control module (ZigBee)</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y1="-40" x3="65" y2="-4" y4="-10" closed="false" x1="45" y5="-23" antialias="false" y3="-4" x2="45" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="65" x5="60"/>
+        <polygon y1="-4" x3="50" y2="-21" closed="false" x1="55" antialias="false" y3="-34" x2="55" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-43" rotation="0" text="IN" x="42.7813" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <rect y="-50" height="50" ry="0" x="0" width="100" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-26" height="19" ry="0" x="58" width="9" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" rx="0"/>
+        <rect y="-37" height="19" ry="0" x="48" width="9" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" rx="0"/>
+        <text y="-43" rotation="0" text="L" x="23" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <polygon y1="-39" y2="-35" closed="false" x1="55" antialias="false" x2="55" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="-39" y2="-24" closed="false" x1="65" antialias="false" x2="65" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-43" rotation="0" text="L2" x="61.9844" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <rect y="-50" height="10" ry="0" x="10" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <text y="-43" rotation="0" text="IN" x="32.7813" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text y="-43" rotation="0" text="S2" x="81.7657" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <text y="-43" rotation="0" text="S1" x="71.7657" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <rect y="-50" height="10" ry="0" x="20" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <text y="-43" rotation="0" text="L1" x="51.9844" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <rect y="-50" height="10" ry="0" x="30" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-50" height="10" ry="0" x="40" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-50" height="10" ry="0" x="50" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-50" height="10" ry="0" x="60" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-50" height="10" ry="0" x="70" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <rect y="-50" height="10" ry="0" x="80" width="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <text y="-43" rotation="0" text="N" x="13" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <polygon y1="-50" x3="35" y2="-60" y4="-50" closed="false" x1="25" antialias="false" y3="-60" x2="25" style="line-style:normal;line-weight:normal;filling:none;color:red" x4="35"/>
+        <polygon y1="-40" x3="45" y2="-30" closed="false" x1="35" antialias="false" y3="-30" x2="35" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="-40" x3="55" y2="-28" closed="false" x1="75" antialias="false" y3="-28" x2="75" style="line-style:dotted;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="-40" x3="65" y2="-18" closed="false" x1="85" antialias="false" y3="-18" x2="85" style="line-style:dotted;line-weight:normal;filling:none;color:black"/>
+        <text y="-3" rotation="0" text="MAX 2500W" x="2" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0"/>
+        <terminal y="-50" x="55" orientation="n"/>
+        <terminal y="-50" x="75" orientation="n"/>
+        <terminal y="-50" x="85" orientation="n"/>
+        <terminal y="-50" x="65" orientation="n"/>
+        <terminal y="-50" x="45" orientation="n"/>
+        <terminal y="-50" x="35" orientation="n"/>
+        <terminal y="-50" x="25" orientation="n"/>
+        <terminal y="-50" x="15" orientation="n"/>
+    </description>
+</definition>
