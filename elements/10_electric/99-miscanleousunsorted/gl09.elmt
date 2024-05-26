@@ -1,0 +1,57 @@
+<definition width="90" hotspot_x="39" hotspot_y="102" link_type="simple" version="0.100.0" type="element" height="170">
+    <uuid uuid="{a45f7185-288e-43a3-ade3-1d3c7a13c1ac}"/>
+    <names>
+        <name lang="fr">GL09</name>
+        <name lang="en">GL09</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text x="31" color="#000000" y="-33" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S1"/>
+        <text x="31" color="#000000" y="37" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S8"/>
+        <text x="31" color="#000000" y="57" rotation="0" font="Sans Serif,2,-1,5,50,0,0,0,0,0" text="GND"/>
+        <text x="-27" color="#000000" y="-3" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="-"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="50" height="10"/>
+        <text x="31" color="#000000" y="-23" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S2"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="40" height="10"/>
+        <rect width="70" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false" ry="0" y="-55" height="120"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false" ry="0" y="-20" height="10"/>
+        <text x="31" color="#000000" y="17" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S6"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false" ry="0" y="-10" height="10"/>
+        <text x="31" color="#000000" y="-13" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S3"/>
+        <text x="31" color="#000000" y="7" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S5"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="30" height="10"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="0" height="10"/>
+        <text x="-28" color="#000000" y="-13" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="+"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="-40" height="10"/>
+        <text x="31" color="#000000" y="27" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S7"/>
+        <text x="-10" color="#000000" y="-40" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="GL09"/>
+        <text x="31" color="#000000" y="-3" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="S4"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="-30" height="10"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="-20" height="10"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="-10" height="10"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="10" height="10"/>
+        <rect width="10" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" antialias="false" ry="0" y="20" height="10"/>
+        <text x="31" color="#000000" y="47" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" text="RST"/>
+        <line y1="-55" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-85" length2="1.5" antialias="false" x2="20" x1="20" end2="none" length1="1.5" end1="none"/>
+        <arc width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x="15" antialias="true" start="90" y="-90" height="10" angle="90"/>
+        <arc width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x="15" antialias="true" start="0" y="-90" height="10" angle="90"/>
+        <arc width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" antialias="true" start="90" y="-95" height="20" angle="90"/>
+        <arc width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" antialias="true" start="0" y="-95" height="20" angle="90"/>
+        <arc width="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x="5" antialias="true" start="90" y="-100" height="30" angle="90"/>
+        <arc width="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x="5" antialias="true" start="0" y="-100" height="30" angle="90"/>
+        <text x="-18" color="#000000" y="-5" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="DC 5 - 16V"/>
+        <terminal orientation="e" x="45" y="-15" name="" type="Generic" uuid="{ea6cf568-0088-40dc-bf12-316e2964077d}"/>
+        <terminal orientation="e" x="45" y="15" name="" type="Generic" uuid="{41e6679f-8144-4848-8158-9c3819e72d35}"/>
+        <terminal orientation="e" x="45" y="35" name="" type="Generic" uuid="{aacc3df8-6cb0-4de6-8312-cd4329b08f77}"/>
+        <terminal orientation="e" x="45" y="45" name="" type="Generic" uuid="{5024bde7-df94-4432-9807-6dc2d8912247}"/>
+        <terminal orientation="w" x="-35" y="-5" name="" type="Generic" uuid="{a5b2e474-308c-4df2-b0e8-fbf79517335c}"/>
+        <terminal orientation="e" x="45" y="55" name="" type="Generic" uuid="{a5c1ca56-53bc-4c77-af3c-edc55b8060f8}"/>
+        <terminal orientation="w" x="-35" y="-15" name="" type="Generic" uuid="{ff4114a7-45af-4c49-b698-0fe9fec24972}"/>
+        <terminal orientation="e" x="45" y="-5" name="" type="Generic" uuid="{aae57b5c-7a07-40ef-a605-e56a801ba1a6}"/>
+        <terminal orientation="e" x="45" y="25" name="" type="Generic" uuid="{7d979b67-3337-4cc1-b667-c31928106bb1}"/>
+        <terminal orientation="e" x="45" y="5" name="" type="Generic" uuid="{dc05c5a3-b0aa-4408-a2ed-d0f657495e4f}"/>
+        <terminal orientation="e" x="45" y="-35" name="" type="Generic" uuid="{66f85853-3680-4449-865d-f1d047fe235c}"/>
+        <terminal orientation="e" x="45" y="-25" name="" type="Generic" uuid="{a571f78f-bac9-4c5f-a762-f78057c28c37}"/>
+    </description>
+</definition>

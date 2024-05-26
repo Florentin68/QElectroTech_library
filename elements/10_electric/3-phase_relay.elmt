@@ -1,0 +1,59 @@
+<definition width="80" hotspot_x="50" hotspot_y="39" link_type="simple" version="0.100.0" type="element" height="80">
+    <uuid uuid="{1cf37017-682f-42cf-ae35-50fe29d464fb}"/>
+    <names>
+        <name lang="fr">Relais de contrôle triphasé</name>
+        <name lang="en">3 phase control relay</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+    </elementInformations>
+    <informations>MUNSCH Florentin: 20-05-2024</informations>
+    <description>
+        <text x="5" color="#000000" y="5" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="14"/>
+        <text x="-15" color="#000000" y="5" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="12"/>
+        <text x="-35" color="#000000" y="5" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="11"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="12" length2="1.5" antialias="false" x2="-10" x1="-10" end2="none" length1="1.5" end1="none"/>
+        <line y1="21" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="27" length2="1.5" antialias="false" x2="-10" x1="-10" end2="none" length1="1.5" end1="none"/>
+        <text x="-28" color="#000000" y="-7" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="AC 3~"/>
+        <text x="-34" color="#000000" y="-19" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="L1"/>
+        <line y1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" length2="1.5" antialias="false" x2="7" x1="-7" end2="none" length1="1.5" end1="none"/>
+        <line y1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" length2="1.5" antialias="false" x2="-13" x1="-27" end2="none" length1="1.5" end1="none"/>
+        <text x="-14" color="#000000" y="-19" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="L2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12.5" antialias="false" y="-32.5" diameter="5"/>
+        <text x="6" color="#000000" y="-19" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="L3"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="7.5" antialias="false" y="-32.5" diameter="5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-32.5" antialias="false" y="27.5" diameter="5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12.5" antialias="false" y="27.5" diameter="5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="7.5" antialias="false" y="27.5" diameter="5"/>
+        <dynamic_text z="20" x="-80" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_from="ElementInfo" y="-32" frame="false" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" uuid="{6d988e26-8242-452f-bc8f-00c3300d9307}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" y6="-29.8785" x3="-45" antialias="false" x2="-45" x1="-33" x5="-33" y5="-29.8785" y3="-29.8785" y4="-29.8785" x6="-33" x4="-33" closed="false"/>
+        <polygon y1="-30.1383" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30.1383" y6="30" x3="25" antialias="false" x2="25" x1="13" x5="13" y5="30" y3="30" y4="30" x6="13" x4="13" closed="false"/>
+        <line y1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30" length2="1.5" antialias="false" x2="-13" x1="-27" end2="none" length1="1.5" end1="none"/>
+        <line y1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30" length2="1.5" antialias="false" x2="7" x1="-7" end2="none" length1="1.5" end1="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-32.5" antialias="false" y="-32.5" diameter="5"/>
+        <line y1="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="22" length2="1.5" antialias="false" x2="-9" x1="-20" end2="none" length1="1.5" end1="none"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" length2="1.5" antialias="false" x2="10" x1="-10" end2="none" length1="1.5" end1="none"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" length2="1.5" antialias="false" x2="10" x1="10" end2="none" length1="1.5" end1="none"/>
+        <line y1="27" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="17" length2="1.5" antialias="false" x2="-30" x1="-30" end2="none" length1="1.5" end1="none"/>
+        <line y1="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="17" length2="1.5" antialias="false" x2="-20" x1="-30" end2="none" length1="1.5" end1="none"/>
+        <terminal orientation="n" x="10" y="-33" name="" type="Generic" uuid="{65b513c4-c8ad-4b52-a612-cb57b6e909b1}"/>
+        <terminal orientation="s" x="-30" y="33" name="" type="Generic" uuid="{cb83a4ac-0713-4454-b207-f7fa6d8c51b5}"/>
+        <terminal orientation="n" x="-30" y="-33" name="" type="Generic" uuid="{785f9fd1-6cbe-402d-9e55-a7fc05d4dad8}"/>
+        <terminal orientation="n" x="-10" y="-33" name="" type="Generic" uuid="{58072753-05c5-4d61-864f-e1484f6eceee}"/>
+        <terminal orientation="s" x="10" y="33" name="" type="Generic" uuid="{5da7b8af-146f-4e18-8f6b-de16308583a1}"/>
+        <terminal orientation="s" x="-10" y="33" name="" type="Generic" uuid="{5368ae51-2617-49a4-8e14-b17ed728f765}"/>
+    </description>
+</definition>
