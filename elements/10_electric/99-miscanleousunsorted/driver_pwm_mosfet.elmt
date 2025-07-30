@@ -1,0 +1,36 @@
+<definition hotspot_y="4" type="element" link_type="simple" width="70" hotspot_x="4" height="90" version="0.100.0">
+    <uuid uuid="{ac3f1f12-e507-4d32-b946-b850e1589fcd}"/>
+    <names>
+        <name lang="en">Driver PWM MOSFET</name>
+        <name lang="fr">Driver PWM MOSFET</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect ry="0" y="0" x="0" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="60" height="80" antialias="false"/>
+        <line y1="40" end2="none" x1="45" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="55" end1="none" length1="1.5" antialias="false" y2="40"/>
+        <line y1="40" end2="none" x1="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="15" end1="none" length1="1.5" antialias="false" y2="40"/>
+        <line y1="15" end2="none" x1="50" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="50" end1="none" length1="1.5" antialias="false" y2="25"/>
+        <rect ry="0" y="10" x="0" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="20" height="20" antialias="false"/>
+        <line y1="20" end2="none" x1="45" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="55" end1="none" length1="1.5" antialias="false" y2="20"/>
+        <rect ry="0" y="30" x="0" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="20" height="20" antialias="false"/>
+        <rect ry="0" y="10" x="40" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="20" height="20" antialias="false"/>
+        <rect ry="0" y="30" x="40" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="20" height="20" antialias="false"/>
+        <rect ry="0" y="70" x="20" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="10" height="10" antialias="false"/>
+        <rect ry="0" y="70" x="30" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" width="10" height="10" antialias="false"/>
+        <line y1="5" end2="none" x1="23" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="38" end1="none" length1="1.5" antialias="false" y2="5"/>
+        <line y1="3" end2="none" x1="24" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="22" end1="none" length1="1.5" antialias="false" y2="5"/>
+        <line y1="5" end2="none" x1="22" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="24" end1="none" length1="1.5" antialias="false" y2="7"/>
+        <line y1="15" end2="none" x1="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" end1="none" length1="1.5" antialias="false" y2="25"/>
+        <line y1="20" end2="none" x1="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="15" end1="none" length1="1.5" antialias="false" y2="20"/>
+        <line y1="64" end2="none" x1="25" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="25" end1="none" length1="1.5" antialias="false" y2="68"/>
+        <line y1="66" end2="none" x1="23" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="27" end1="none" length1="1.5" antialias="false" y2="66"/>
+        <line y1="66" end2="none" x1="33" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="37" end1="none" length1="1.5" antialias="false" y2="66"/>
+        <terminal orientation="e" y="20" type="Generic" x="60" uuid="{0e303a04-2c62-4125-bb24-a02c4ad01278}" name=""/>
+        <terminal orientation="s" y="80" type="Generic" x="25" uuid="{32d5bac3-5546-4824-ad64-7c6c0f358ff4}" name=""/>
+        <terminal orientation="w" y="20" type="Generic" x="0" uuid="{ab53112b-b373-44a5-8864-502dd9f6c6cd}" name=""/>
+        <terminal orientation="s" y="80" type="Generic" x="35" uuid="{3f6f6688-819d-4b83-b053-e50939e70f78}" name=""/>
+        <terminal orientation="e" y="40" type="Generic" x="60" uuid="{f75a5041-5e59-44da-83b6-00e7e749bcec}" name=""/>
+        <terminal orientation="w" y="40" type="Generic" x="0" uuid="{a0b5ac00-a03f-4fad-994c-640e4c211223}" name=""/>
+    </description>
+</definition>
