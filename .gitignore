@@ -1,2 +1,3 @@
+*.bak
 *.log
 elements_cache.sqlite
