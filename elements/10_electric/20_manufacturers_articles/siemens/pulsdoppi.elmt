@@ -1,0 +1,37 @@
+<definition hotspot_y="72" hotspot_x="45" type="element" link_type="simple" height="160" orientation="dyyy" version="0.70" width="90">
+    <uuid uuid="{01a4103b-ae5a-4f1d-b279-b82d551d9040}"/>
+    <names>
+        <name lang="it">PULSANTE DOPPIO - NO+NO</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" antialias="false" diameter="50"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="65" end2="none" x2="3.5" length1="1.5" antialias="false" y2="70" x1="3.5" end1="none" length2="1.5"/>
+        <circle y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" antialias="false" diameter="40"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="85" end2="none" x2="3.5" length1="1.5" antialias="false" y2="80" x1="3.5" end1="none" length2="1.5"/>
+        <dynamic_text y="-70" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-20" frame="false" text_width="-1" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}" z="4" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>Nome</text>
+        </dynamic_text>
+        <rect y="-70" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-40" rx="0" antialias="false" height="100" ry="0" width="80"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="80" end2="none" x2="-1.5" length1="1.5" antialias="false" y2="70" x1="3.5" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="65" end2="none" x2="-11" length1="1.5" antialias="false" y2="70" x1="-11" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="85" end2="none" x2="-11" length1="1.5" antialias="false" y2="80" x1="-11" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="80" end2="none" x2="-16" length1="1.5" antialias="false" y2="70" x1="-11" end1="none" length2="1.5"/>
+        <dynamic_text y="25" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-20" frame="false" text_width="-1" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" z="13" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text y="78" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-39" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="48" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-39" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="48.1462" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="4.55522" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="78.3343" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="4.55522" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+    </description>
+</definition>

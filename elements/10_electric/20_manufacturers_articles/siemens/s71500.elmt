@@ -1,0 +1,78 @@
+<definition hotspot_x="145" orientation="dyyy" version="0.70" width="320" link_type="simple" type="element" height="270" hotspot_y="145">
+    <uuid uuid="{3f673b64-806e-47e8-a71b-5ea7bd7feb8c}"/>
+    <names>
+        <name lang="it">PLC S7 1500</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="description">CPU 1510SP-1PN</elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="designation">6ES7510-1DJ01-0AB0</elementInformation>
+        <elementInformation show="1" name="manufacturer">SIEMENS</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-140" width="310" height="260" y="-140" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="-105" y="65" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <polygon y3="-74" x10="-47" y1="-82" y4="-74" y8="-64" x7="-53" y2="-82" x1="-27" y9="-60" y6="-70" x12="-27" x5="-51" x9="-51" y10="-60" y12="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" y7="-64" x2="-47" antialias="false" x6="-53" x8="-51" y5="-70" y11="-52" x3="-47" x4="-51" x11="-47"/>
+        <polygon y3="-114" x10="-117" y1="-122" y4="-114" y8="-104" x7="-123" y2="-122" x1="-97" y9="-100" y6="-110" x12="-97" x5="-121" x9="-121" y10="-100" y12="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" y7="-104" x2="-117" antialias="false" x6="-123" x8="-121" y5="-110" y11="-92" x3="-117" x4="-121" x11="-117"/>
+        <rect x="-125" width="10" height="3" y="85" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-105" width="10" height="3" y="85" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-105" width="10" height="3" y="78" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="134" width="2" height="2" y="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="135" width="2" height="2" y="-112" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="139" width="2" height="2" y="-112" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="-105" y="90" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-125" y="90" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <line x1="0" y2="120" end1="none" end2="none" x2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-140" length1="1.5"/>
+        <line x1="0" y2="0" end1="none" end2="none" x2="170" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="0" length1="1.5"/>
+        <rect x="145" width="5" height="60" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="140" width="20" height="30" y="10" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="145" y="20" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <polygon x1="148" y2="12" x6="151" x3="169" x2="167" y4="27" y6="27" x4="151" x5="151" style="line-style:normal;line-weight:normal;filling:none;color:black" y5="27" antialias="false" y1="23" y3="16" closed="false"/>
+        <rect x="-130" width="40" height="50" y="60" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="-125" y="65" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="-125" width="10" height="3" y="78" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-60" width="60" height="140" y="-140" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <polygon y3="-34" x10="-47" y1="-42" y4="-34" y8="-24" x7="-53" y2="-42" x1="-27" y9="-20" y6="-30" x12="-27" x5="-51" x9="-51" y10="-20" y12="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" y7="-24" x2="-47" antialias="false" x6="-53" x8="-51" y5="-30" y11="-12" x3="-47" x4="-51" x11="-47"/>
+        <rect x="-130" width="50" height="50" y="-130" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-130" width="50" height="30" y="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="9" width="26" height="70" y="-102" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="12" y="-59" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" antialias="false"/>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="0" rotation="0" frame="false" uuid="{4f28072a-87ff-494d-b0c5-cf2502e857b6}" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="29" y="-140" Valignment="AlignTop" text_from="UserText">
+            <text>SIEMENS</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="100" rotation="0" frame="false" uuid="{e987c236-c24a-43f9-a2df-07a4d54ea22d}" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" z="30" y="-136" Valignment="AlignTop" text_from="UserText">
+            <text>CPU 1510SP-1PN</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="-130" rotation="0" frame="false" uuid="{1100ef2a-3c70-43ec-955a-57f2b0f3c7d7}" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" z="31" y="0" Valignment="AlignTop" text_from="UserText">
+            <text>MAC ADDRESS</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="-130" rotation="0" frame="false" uuid="{3b4d1c48-fb6b-4199-b37f-1af59de5e302}" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" z="32" y="-80" Valignment="AlignTop" text_from="UserText">
+            <text>X1P3
+PROFINET
+(LAN)</text>
+        </dynamic_text>
+        <line x1="0" y2="-116" end1="none" end2="none" x2="170" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-116" length1="1.5"/>
+        <rect x="131" width="2" height="2" y="-112" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="5" rotation="0" frame="false" uuid="{22d027ee-bb15-4b31-8b1e-4f9a23660f82}" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" z="34" y="-35" Valignment="AlignTop" text_from="UserText">
+            <text>SIMATIC
+ET200SP</text>
+        </dynamic_text>
+        <rect x="12" width="20" height="19" y="-100" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <polygon y3="-93" x10="29" y1="-99" y13="-94" y4="-93" y8="-94" x7="28" y2="-93" x1="27" y9="-98" y6="-99" x12="29" x5="31" x9="30" y10="-98" y12="-96" style="line-style:normal;line-weight:normal;filling:none;color:black" y7="-94" x2="27" closed="false" x13="29" antialias="false" x6="28" x8="30" y5="-99" y11="-95" x3="31" x4="31" x11="29"/>
+        <polygon x5="31" x3="25" y6="-82" closed="false" y18="-85" y10="-82" x13="14" y2="-92" y12="-89" y5="-82" x16="15" y13="-83" x18="21" y1="-100" x14="23" x4="31" x10="25" x1="25" x9="27" style="line-style:normal;line-weight:normal;filling:none;color:black" x12="14" x11="25" y11="-89" y14="-83" y7="-89" y8="-89" x2="25" y17="-85" x15="23" x6="29" y15="-87" y3="-91" y16="-87" x17="15" y9="-82" x8="27" x7="29" y4="-91" antialias="false"/>
+        <polygon y3="-98" x10="19" y1="-85" y4="-91" y8="-93" x7="16" y2="-98" x1="21" y9="-93" y6="-96" x12="18" x5="23" x9="19" y10="-94" y12="-94" style="line-style:normal;line-weight:normal;filling:none;color:black" y7="-96" x2="21" closed="false" antialias="false" x6="23" x8="16" y5="-91" y11="-94" x3="14" x4="14" x11="18"/>
+        <terminal x="-40" orientation="n" y="-80"/>
+        <terminal x="-40" orientation="n" y="-40"/>
+        <terminal x="-110" orientation="n" y="-120"/>
+        <terminal x="-120" orientation="s" y="105"/>
+        <terminal x="-100" orientation="s" y="105"/>
+    </description>
+</definition>

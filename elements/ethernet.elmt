@@ -1,0 +1,25 @@
+<definition link_type="simple" version="0.100.0" height="60" hotspot_x="15" width="50" hotspot_y="20" type="element">
+    <uuid uuid="{9e9ad5ba-eb6a-4cc6-b5fd-5bc4ecdcc27c}"/>
+    <names>
+        <name lang="en">ethernet_connector</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Ethernet connector</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect antialias="false" height="50" style="line-style:normal;line-weight:thin;filling:none;color:black" width="40" ry="0" rx="0" x="-10" y="-15"/>
+        <polygon x13="-6.8274" y13="4.798" y10="-0.574" x1="-6.8274" style="line-style:normal;line-weight:thin;filling:none;color:black" x12="-3.4795" x4="-3.4795" x10="1.5424" antialias="false" y11="-0.574" y1="4.798" y8="-9.528" closed="false" y2="15.542" x3="-3.4795" x2="-6.8274" x8="24.9781" y3="15.542" x6="1.5424" x7="24.9781" y9="-9.528" y5="20.914" x9="1.5424" y4="20.914" y7="29.867" x11="-3.4795" y12="4.798" y6="29.867" x5="1.5424"/>
+        <terminal uuid="{51ba3c71-9d91-4e3d-889e-c1950f92cf54}" name="" orientation="w" type="Generic" x="0" y="10.1"/>
+    </description>
+</definition>

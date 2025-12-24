@@ -1,0 +1,78 @@
+<definition hotspot_x="34" orientation="dyyy" version="0.70" width="70" link_type="simple" type="element" height="270" hotspot_y="145">
+    <uuid uuid="{797d36a2-1d0a-4179-88c7-281ed4d6e1af}"/>
+    <names>
+        <name lang="it">S7 ANALOG OUTPUT</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="description">MODULO OUTPUT ANALOGICO</elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="designation">6ES7135-6HD00-0BA1</elementInformation>
+        <elementInformation show="1" name="manufacturer">SIEMENS</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle x="-19.5" y="62" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="-24.5" width="3" height="10" y="86" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="21.5" width="3" height="10" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="62" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="98" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="110" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-8.5" width="2" height="2" y="-56" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="-19.5" y="14" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="98" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="110" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="-8.5" width="2" height="2" y="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-19.5" width="2" height="2" y="-56" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="26" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-19.5" width="2" height="2" y="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="3" height="10" y="14" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-19.5" width="2" height="2" y="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="-19.5" y="86" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="-19.5" y="26" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="21.5" width="3" height="10" y="98" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="21.5" width="3" height="10" y="110" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="9.5" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="98" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="21.5" width="3" height="10" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="9.5" y="110" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="14" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="62" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="21.5" width="3" height="10" y="62" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="21.5" width="3" height="10" y="14" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="9.5" y="86" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <circle x="9.5" y="26" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="21.5" width="3" height="10" y="26" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="21.5" width="3" height="10" y="86" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="-26.5" rotation="0" frame="false" uuid="{222c2908-ad6e-443c-adbb-b2897e34c751}" font="Sans Serif,3,-1,5,0,0,0,0,0,0,normal" z="42" y="-139" Valignment="AlignTop" text_from="UserText">
+            <text>AQ                ST
+4xU/I</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="-28.5" rotation="0" frame="false" uuid="{579788c3-d1cd-49db-95fe-09b1eb6f97b8}" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" z="43" y="-22" Valignment="AlignTop" text_from="UserText">
+            <text>6ES7135-6HD
+00-0BA1</text>
+        </dynamic_text>
+        <rect x="21.5" width="3" height="10" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <circle x="9.5" y="2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="21.5" width="3" height="10" y="2" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-29.5" width="59" height="260" y="-140" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-24.5" width="50" height="56" y="-117" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <line x1="-29.5" y2="0" end1="none" end2="none" x2="29.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="0" length1="1.5"/>
+        <circle x="-19.5" y="2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" antialias="false"/>
+        <rect x="-24.5" width="3" height="10" y="2" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+    </description>
+</definition>

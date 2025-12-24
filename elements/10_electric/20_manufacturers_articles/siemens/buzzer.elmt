@@ -1,0 +1,32 @@
+<definition version="0.70" type="element" width="140" height="140" hotspot_x="70" hotspot_y="70" orientation="dyyy" link_type="simple">
+    <uuid uuid="{4530a924-0c39-48d4-a5fc-932f06cf6c03}"/>
+    <names>
+        <name lang="it">BUZZER</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="130" y="-65" antialias="false" x="-65" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_from="UserText" y="69.5" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="13" Valignment="AlignTop" Halignment="AlignLeft" frame="false" text_width="-1" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" x="-20.5" rotation="0">
+            <text>Sigla</text>
+        </dynamic_text>
+        <circle diameter="100" y="-50" antialias="false" x="-50" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="-50" end2="none" x2="0" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="0" end2="none" x2="50" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="50" end2="none" x2="0" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="0" end2="none" x2="-50" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="-35" end2="none" x2="-35" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="35" end2="none" x2="35" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="35" end2="none" x2="-35" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="0" x1="0" y2="-35" end2="none" x2="35" antialias="false" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y8="-35" antialias="false" x9="0" x5="0" x3="50" y2="-35" x7="-50" x6="-35" y1="-50" y6="35" y5="50" x2="35" y7="0" y4="35" style="line-style:normal;line-weight:normal;filling:none;color:black" y9="-50" y3="0" x1="0" x8="-35" x4="35"/>
+        <rect y="-60" width="5" height="5" rx="0" antialias="false" x="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="55" width="5" height="5" rx="0" antialias="false" x="-5" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="0" width="5" height="5" rx="0" antialias="false" x="55" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="-5" width="5" height="5" rx="0" antialias="false" x="-60" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="10" y="35" antialias="false" x="35" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="10" y="-45" antialias="false" x="35" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="10" y="35" antialias="false" x="-45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="10" y="-45" antialias="false" x="-45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

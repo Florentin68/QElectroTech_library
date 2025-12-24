@@ -1,0 +1,35 @@
+<definition version="0.80" orientation="dyyy" type="element" width="140" height="80" hotspot_x="65" hotspot_y="48" link_type="simple">
+    <uuid uuid="{2a728d1c-976c-46a7-a97a-d580f5570d8b}"/>
+    <names>
+        <name lang="it">Selettore a chiave lat.</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" diameter="50" y="-25"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" diameter="40" y="-20"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="4" rotation="0" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}" frame="false" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="-20" y="-65" Valignment="AlignTop">
+            <text>Nome</text>
+        </dynamic_text>
+        <line x2="69" end2="none" antialias="false" x1="69" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="69" end2="none" antialias="false" x1="69" y2="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="22" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="64" end2="none" antialias="false" x1="69" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="17" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="3" end2="none" antialias="false" x1="-7" y2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-2" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="7" end2="none" antialias="false" x1="3" y2="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="-3" end2="none" antialias="false" x1="7" y2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4" length1="1.5" length2="1.5" end1="none"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="13" rotation="0" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="49" y="-39" Valignment="AlignTop">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="41" y="15" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <line x2="-7" end2="none" antialias="false" x1="-3" y2="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-6" length1="1.5" length2="1.5" end1="none"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="41" y="-15" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <ellipse width="32.3" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" height="32.73" x="-60" y="-42.3688"/>
+        <polygon x2="-15.5875" x12="-33.3525" y2="19" x4="-19.625" x10="-30.1225" y12="-12.9118" closed="false" x11="-32.545" y6="-1.4563" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" y4="2.635" x5="-19.625" y11="-12.9118" x8="-27.7" y9="-9.6388" x6="-23.6625" y10="-9.6388" y7="-5.5475" x1="-39.8125" y13="-12.9118" y1="-9.6388" x9="-27.7" x3="-16.395" y5="-1.4563" x7="-23.6625" x13="-33.3525" y3="6.7262" y8="-5.5475"/>
+        <line x2="-18.01" end2="none" antialias="false" x1="-35.775" y2="12.454" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="-8.8205" length1="1.5" length2="1.5" end1="none"/>
+        <ellipse width="8.075" antialias="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" height="8.1825" x="-51.925" y="-36.1863"/>
+    </description>
+</definition>

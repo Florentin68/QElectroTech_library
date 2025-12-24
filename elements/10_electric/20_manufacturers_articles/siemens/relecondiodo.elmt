@@ -1,0 +1,48 @@
+<definition hotspot_y="35" type="element" link_type="master" height="70" width="80" orientation="dyyy" version="0.80" hotspot_x="27">
+    <uuid uuid="{82a9d157-e65b-4548-81c3-551c72e6901c}"/>
+    <names>
+        <name lang="de">Remanenzrelais</name>
+        <name lang="en">Remanence relay</name>
+        <name lang="pl">Przekaźnik remanencyjny</name>
+        <name lang="it">Relè</name>
+        <name lang="cs">Přetrvávající relé</name>
+        <name lang="es">Relé de remanencia</name>
+        <name lang="fr">Relais à rémanence</name>
+        <name lang="nl">remanent relais</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect ry="0" height="20" antialias="false" x="-15" width="30" rx="0" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="27" length1="1.5" y1="28" y2="28" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-15" length1="1.5" y1="10" y2="-10" length2="1.5" antialias="true" end1="none" end2="none" x1="-22" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect ry="0" height="20" antialias="false" x="-22" width="7" rx="0" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="0" length1="1.5" y1="20" y2="10" length2="1.5" antialias="false" end1="none" end2="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="0" length1="1.5" y1="-20" y2="-10" length2="1.5" antialias="false" end1="none" end2="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{84397037-c294-4746-952c-7e5fe48cb40b}" frame="false" Valignment="AlignTop" z="6" Halignment="AlignLeft" x="-14" rotation="0" text_width="-1" text_from="UserText" y="10.5">
+            <text>A2</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{ed015b3b-4e63-4166-9e39-08fa4430595a}" frame="false" Valignment="AlignTop" z="7" Halignment="AlignLeft" x="-14" rotation="0" text_width="-1" text_from="UserText" y="-24.5">
+            <text>A1</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{4605e459-b9bc-4c48-9c7e-61bcd071cb56}" frame="false" Valignment="AlignTop" z="8" Halignment="AlignLeft" x="16" rotation="0" text_width="-1" text_from="ElementInfo" y="-11">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="42" length1="1.5" y1="-4" y2="-4" length2="1.5" antialias="false" end1="none" end2="none" x1="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="30" length1="1.5" y1="-4" y2="5" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="42" length1="1.5" y1="5" y2="5" length2="1.5" antialias="false" end1="none" end2="none" x1="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="42" length1="1.5" y1="-4" y2="5" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="36" length1="1.5" y1="-4" y2="-29" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="1" length1="1.5" y1="-29" y2="-9" length2="1.5" antialias="false" end1="none" end2="none" x1="27" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="36" length1="1.5" y1="5" y2="28" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="0" length1="1.5" y1="28" y2="10" length2="1.5" antialias="false" end1="none" end2="none" x1="27" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" x="24" diameter="24" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="27" length1="1.5" y1="-29" y2="-29" length2="1.5" antialias="false" end1="none" end2="none" x1="36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{06ce8a2f-7edc-4077-bf36-532c563f8207}" name="" x="0" orientation="n" y="-20"/>
+        <terminal uuid="{bd77be5f-b2fd-49c2-b40a-7f7386226d53}" name="" x="0" orientation="s" y="20"/>
+    </description>
+</definition>

@@ -1,0 +1,36 @@
+<definition version="0.80" width="120" hotspot_x="44" height="160" link_type="simple" type="element" hotspot_y="72" orientation="dyyy">
+    <uuid uuid="{f9dc09cd-9fd7-4b70-bb30-29de13c8b3d9}"/>
+    <names>
+        <name lang="it">Selettore a chiave</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-25" diameter="50" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-25" antialias="false"/>
+        <circle x="-20" diameter="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20" antialias="false"/>
+        <rect ry="0" x="-40" width="80" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-70" height="100" rx="0" antialias="false"/>
+        <dynamic_text frame="false" x="-20" z="4" rotation="0" text_width="-1" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-70" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}">
+            <text>Nome</text>
+        </dynamic_text>
+        <line length2="1.5" end1="none" y1="66" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="0" x2="0" end2="none" antialias="false" y2="71"/>
+        <line length2="1.5" end1="none" y1="86" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="0" x2="0" end2="none" antialias="false" y2="81"/>
+        <line length2="1.5" end1="none" y1="81" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="0" x2="-5" end2="none" antialias="false" y2="71"/>
+        <dynamic_text frame="false" x="-20" z="13" rotation="0" text_width="-1" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="25" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text frame="false" x="-28" z="14" rotation="0" text_width="-1" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="49" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text frame="false" x="-28" z="14" rotation="0" text_width="-1" Valignment="AlignTop" Halignment="AlignLeft" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="79" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <line length2="1.5" end1="none" y1="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-7" x2="3" end2="none" antialias="false" y2="8"/>
+        <line length2="1.5" end1="none" y1="8" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="3" x2="7" end2="none" antialias="false" y2="4"/>
+        <line length2="1.5" end1="none" y1="4" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="7" x2="-3" end2="none" antialias="false" y2="-6"/>
+        <line length2="1.5" end1="none" y1="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-3" x2="-7" end2="none" antialias="false" y2="-2"/>
+        <ellipse x="27" width="32.3" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-6.3688" height="32.73" antialias="false"/>
+        <polygon x5="67.375" x7="63.3375" x1="47.1875" y4="38.635" x4="67.375" y6="34.5437" y2="55" style="line-style:dashed;line-weight:normal;filling:none;color:black" x3="70.605" x11="54.455" x9="59.3" y1="26.3612" closed="false" y5="34.5437" y13="23.0882" y7="30.4525" y12="23.0882" x6="63.3375" y8="30.4525" y3="42.7262" x10="56.8775" y10="26.3612" y9="26.3612" antialias="false" y11="23.0882" x8="59.3" x2="71.4125" x12="53.6475" x13="53.6475"/>
+        <line length2="1.5" end1="none" y1="27.1795" style="line-style:dashed;line-weight:normal;filling:none;color:black" length1="1.5" x1="51.225" x2="68.99" end2="none" antialias="false" y2="48.454"/>
+        <ellipse x="35.075" width="8.075" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-0.1863" height="8.1825" antialias="false"/>
+    </description>
+</definition>

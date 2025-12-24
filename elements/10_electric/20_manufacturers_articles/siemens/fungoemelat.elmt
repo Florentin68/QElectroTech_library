@@ -1,0 +1,50 @@
+<definition version="0.80" orientation="dyyy" type="element" width="200" height="140" hotspot_x="69" hotspot_y="70" link_type="simple">
+    <uuid uuid="{a90323c4-f297-4536-bd41-513a0e48df3f}"/>
+    <names>
+        <name lang="it">Fungo di emergenza lat.</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x2="100" end2="none" antialias="false" x1="100" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="120" end2="none" antialias="false" x1="120" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" length1="1.5" length2="1.5" end1="none"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-45" diameter="90" y="-45"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="3" rotation="0" uuid="{e202da87-5e09-43ce-9944-e5a21cf28122}" frame="false" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="-35" y="-65" Valignment="AlignTop">
+            <text>Emergency</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="4" rotation="0" uuid="{780e870c-fbff-40c0-bc34-35d3edd1f92f}" frame="false" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="-15" y="40" Valignment="AlignTop">
+            <text>Stop</text>
+        </dynamic_text>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-65" diameter="130" y="-65"/>
+        <line x2="120" end2="none" antialias="false" x1="120" y2="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="22" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="100" end2="none" antialias="false" x1="100" y2="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="22" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="105.5" end2="none" antialias="false" x1="100" y2="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="17" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="125.5" end2="none" antialias="false" x1="120" y2="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="17" length1="1.5" length2="1.5" end1="none"/>
+        <arc angle="90" width="40" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" height="40" start="90" x="-30" y="-30"/>
+        <arc angle="90" width="40" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" height="40" start="270" x="-10" y="-10"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="13" rotation="0" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="94.5" y="-39.5" Valignment="AlignTop">
+            <text>Sigla</text>
+        </dynamic_text>
+        <line x2="-16" end2="none" antialias="false" x1="-10" y2="-32" style="line-style:normal;line-weight:hight;filling:black;color:black" y1="-30" length1="1.5" length2="1.5" end1="none"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="121.5" y="17.5" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="71.5" y="17.5" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="71.5" y="-12.5" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="121.5" y="-12.5" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <line x2="-14" end2="none" antialias="false" x1="-10" y2="-26" style="line-style:normal;line-weight:hight;filling:black;color:black" y1="-30" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="-16" end2="none" antialias="false" x1="-14" y2="-32" style="line-style:normal;line-weight:hight;filling:black;color:black" y1="-26" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="14" end2="none" antialias="false" x1="10" y2="26" style="line-style:normal;line-weight:hight;filling:none;color:black" y1="30" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="16" end2="none" antialias="false" x1="10" y2="32" style="line-style:normal;line-weight:hight;filling:none;color:black" y1="30" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="14" end2="none" antialias="false" x1="16" y2="26" style="line-style:normal;line-weight:hight;filling:none;color:black" y1="32" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="107.5" end2="none" antialias="false" x1="99.5" y2="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="7.5" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="127.5" end2="none" antialias="false" x1="119.5" y2="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="7.5" length1="1.5" length2="1.5" end1="none"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-5" diameter="10" y="-5"/>
+    </description>
+</definition>

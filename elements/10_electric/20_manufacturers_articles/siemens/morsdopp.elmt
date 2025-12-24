@@ -1,0 +1,22 @@
+<definition width="210" hotspot_x="105" hotspot_y="20" height="40" orientation="dyyy" version="0.80" link_type="simple" type="element">
+    <uuid uuid="{a9b54e4b-6319-407f-a4e8-02529fd75234}"/>
+    <names>
+        <name lang="it">MORSETTO DOPPIO</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-74" width="5" rx="0" y="-12" antialias="false" height="24" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-100" width="200" rx="0" y="-15" antialias="false" height="30" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="67" width="5" rx="0" y="-12" antialias="false" height="24" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="17" font="Sans Serif,10,-1,5,0,0,0,0,0,0,normal" text_width="-1" y="-12" z="4" uuid="{c58d3c13-c6fa-4845-8808-6864fa028503}" frame="false" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft">
+            <text>TESTO</text>
+        </dynamic_text>
+        <circle x="-97" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20"/>
+        <dynamic_text x="-70" font="Sans Serif,10,-1,5,0,0,0,0,0,0,normal" text_width="-1" y="-12" z="4" uuid="{c58d3c13-c6fa-4845-8808-6864fa028503}" frame="false" Valignment="AlignTop" rotation="0" text_from="UserText" Halignment="AlignLeft">
+            <text>TESTO</text>
+        </dynamic_text>
+        <circle x="76" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20"/>
+        <line y1="-15" end1="none" x1="0" y2="15" length1="1.5" antialias="false" x2="0" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

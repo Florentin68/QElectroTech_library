@@ -1,0 +1,41 @@
+<definition hotspot_y="73" hotspot_x="45" type="element" link_type="simple" height="160" orientation="dyyy" version="0.70" width="90">
+    <uuid uuid="{d175b664-16b1-48df-9a15-1ebecaef04c8}"/>
+    <names>
+        <name lang="it">PULSANTE LUMINOSO - NO</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle y="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" antialias="false" diameter="50"/>
+        <circle y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" antialias="false" diameter="40"/>
+        <rect y="-70" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-40" rx="0" antialias="false" height="100" ry="0" width="80"/>
+        <dynamic_text y="-70" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-20" frame="false" text_width="-1" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}" z="4" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>Nome</text>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="64" end2="none" x2="-12" length1="1.5" antialias="false" y2="69" x1="-12" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="84" end2="none" x2="-12" length1="1.5" antialias="false" y2="79" x1="-12" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="79" end2="none" x2="-17" length1="1.5" antialias="false" y2="69" x1="-12" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="64" end2="none" x2="8" length1="1.5" antialias="false" y2="69" x1="8" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="84" end2="none" x2="8" length1="1.5" antialias="false" y2="79" x1="8" end1="none" length2="1.5"/>
+        <circle y="69" style="line-style:normal;line-weight:normal;filling:none;color:black" x="3" antialias="false" diameter="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="78" end2="none" x2="11" length1="1.5" antialias="false" y2="70" x1="5" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="71" end2="none" x2="12" length1="1.5" antialias="false" y2="77" x1="4" end1="none" length2="1.5"/>
+        <dynamic_text y="25" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-20" frame="false" text_width="-1" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" z="13" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text y="47" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="10" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="47" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-40" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="77" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="-40" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text y="77" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="10" frame="false" text_width="-1" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" z="14" text_from="UserText" rotation="0" Halignment="AlignLeft">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="14.1688" end2="none" x2="14.1688" length1="1.5" antialias="false" y2="-14.1688" x1="-14.0934" end1="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14.1688" end2="none" x2="13.4927" length1="1.5" antialias="false" y2="13.9449" x1="-13.7166" end1="none" length2="1.5"/>
+    </description>
+</definition>

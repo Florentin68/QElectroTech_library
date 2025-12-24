@@ -1,0 +1,38 @@
+<definition version="0.80" orientation="dyyy" type="element" width="120" height="60" hotspot_x="29" hotspot_y="29" link_type="simple">
+    <uuid uuid="{7628af8f-8f3e-4b13-90b4-97306f591be7}"/>
+    <names>
+        <name lang="it">Pulsante lat.</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" diameter="50" y="-25"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" diameter="40" y="-20"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="4" rotation="0" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}" frame="false" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="-20" y="-65" Valignment="AlignTop">
+            <text>Nome</text>
+        </dynamic_text>
+        <line x2="61" end2="none" antialias="false" x1="61" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="61" end2="none" antialias="false" x1="61" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="26" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="56" end2="none" antialias="false" x1="61" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="81" end2="none" antialias="false" x1="81" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="81" end2="none" antialias="false" x1="81" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="26" length1="1.5" length2="1.5" end1="none"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="76" diameter="10" y="11"/>
+        <line x2="84" end2="none" antialias="false" x1="78" y2="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" length1="1.5" length2="1.5" end1="none"/>
+        <line x2="85" end2="none" antialias="false" x1="77" y2="19" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="13" length1="1.5" length2="1.5" end1="none"/>
+        <dynamic_text text_from="UserText" text_width="-1" z="13" rotation="0" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="53" y="-33" Valignment="AlignTop">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="33" y="-11" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="83" y="-11" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="33" y="19" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" text_width="-1" z="14" rotation="0" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" frame="false" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="83" y="19" Valignment="AlignTop">
+            <text>n°cavo</text>
+        </dynamic_text>
+    </description>
+</definition>

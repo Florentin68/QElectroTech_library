@@ -1,0 +1,41 @@
+<definition orientation="dyyy" type="element" hotspot_y="73" width="90" height="160" link_type="simple" hotspot_x="45" version="0.80">
+    <uuid uuid="{a24bcb80-dea4-4ac4-832b-90070c90cb4f}"/>
+    <names>
+        <name lang="it">SELETTORE MONOSTABILE</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="8.5" end2="none" length1="1.5" end1="none" x2="8.5" antialias="false" y2="68" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="63" length2="1.5"/>
+        <circle diameter="50" y="-25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25"/>
+        <line x1="8.5" end2="none" length1="1.5" end1="none" x2="8.5" antialias="false" y2="78" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="83" length2="1.5"/>
+        <circle diameter="40" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20"/>
+        <rect rx="0" y="-70" width="80" height="100" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-40" ry="0"/>
+        <line x1="8.5" end2="none" length1="1.5" end1="none" x2="3.5" antialias="false" y2="68" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="78" length2="1.5"/>
+        <dynamic_text z="4" text_width="-1" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" y="-70" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{9788f28f-0098-4c16-b188-35c854fd8d67}" Valignment="AlignTop" x="-20">
+            <text>Nome</text>
+        </dynamic_text>
+        <line x1="-6" end2="none" length1="1.5" end1="none" x2="-6" antialias="false" y2="68" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="63" length2="1.5"/>
+        <line x1="-6" end2="none" length1="1.5" end1="none" x2="-6" antialias="false" y2="78" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="83" length2="1.5"/>
+        <line x1="-6" end2="none" length1="1.5" end1="none" x2="-11" antialias="false" y2="68" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="78" length2="1.5"/>
+        <dynamic_text z="13" text_width="-1" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="25" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{aaabcd16-231b-44e9-b79c-1bd2c496aaf6}" Valignment="AlignTop" x="-20">
+            <text>Sigla</text>
+        </dynamic_text>
+        <dynamic_text z="14" text_width="-1" rotation="0" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" y="49" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" Valignment="AlignTop" x="6">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text z="14" text_width="-1" rotation="0" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" y="79" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" Valignment="AlignTop" x="-29">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text z="14" text_width="-1" rotation="0" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" y="49" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" Valignment="AlignTop" x="-29">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <dynamic_text z="14" text_width="-1" rotation="0" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" y="79" frame="false" Halignment="AlignLeft" text_from="UserText" uuid="{d8e56b98-bfbf-4b9a-bbd3-51604159e5f7}" Valignment="AlignTop" x="6">
+            <text>n°cavo</text>
+        </dynamic_text>
+        <line x1="-4" end2="none" length1="1.5" end1="none" x2="-4" antialias="false" y2="19" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19" length2="1.5"/>
+        <line x1="4" end2="none" length1="1.5" end1="none" x2="4" antialias="false" y2="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" length2="1.5"/>
+        <rect rx="0" y="-18" width="2" height="11" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-1" ry="0"/>
+        <line x1="0" end2="none" length1="1.5" end1="none" x2="0" antialias="false" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" length2="1.5"/>
+    </description>
+</definition>

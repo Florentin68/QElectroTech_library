@@ -1,0 +1,305 @@
+<definition hotspot_x="155" orientation="dyyy" version="0.70" width="350" link_type="simple" type="element" height="450" hotspot_y="335">
+    <uuid uuid="{979de1cc-a02e-4f92-a25a-3f59be171ef1}"/>
+    <names>
+        <name lang="it">LASERSCAN</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="description">LASERSCAN</elementInformation>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer">OMRON</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="144" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="1" y="74" Valignment="AlignTop" text_from="UserText">
+            <text>8</text>
+        </dynamic_text>
+        <circle x="149" y="68" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="183" y="78" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="-103" y="77" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <circle x="158" y="78" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="133" y="78" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="147" y="78" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="152" y="88" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="169" y="78" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="144" y="98" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="172" y="59" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="167" y="68" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="172" y="98" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="138" y="68" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="158" y="98" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="164" y="88" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="138" y="88" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="178" y="68" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="178" y="88" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle x="-63" y="67" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <circle x="-63" y="77" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <circle x="-148" y="84" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <rect x="20" width="105" height="360" y="-330" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-140" width="120" height="56" y="40" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-110" width="60" height="40" y="50" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="4" antialias="false" ry="4"/>
+        <line x1="63" y2="74" end1="none" end2="none" x2="43" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="74" length1="1.5"/>
+        <rect x="-90" width="20" height="10" y="70" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <line x1="63" y2="85" end1="none" end2="none" x2="43" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="85" length1="1.5"/>
+        <circle x="-103" y="67" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <rect x="-86" width="4" height="6" y="72" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-78" width="4" height="6" y="72" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <line x1="-86" y2="75" end1="none" end2="none" x2="-82" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="75" length1="1.5"/>
+        <line x1="-78" y2="75" end1="none" end2="none" x2="-74" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="75" length1="1.5"/>
+        <line x1="-145" y2="45" end1="none" end2="none" x2="-140" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="45" length1="1.5"/>
+        <arc x="-150" angle="90" width="10" start="90" height="10" y="45" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="-20" angle="90" width="10" start="0" height="10" y="45" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-15" y2="45" end1="none" end2="none" x2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="45" length1="1.5"/>
+        <line x1="-113" y2="30" end1="none" end2="none" x2="-145" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="24" length1="1.5"/>
+        <arc x="-150" angle="90" width="10" start="90" height="10" y="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-150" y2="96" end1="none" end2="none" x2="-150" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="35" length1="1.5"/>
+        <line x1="-150" y2="96" end1="none" end2="none" x2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="96" length1="1.5"/>
+        <line x1="-10" y2="35" end1="none" end2="none" x2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="96" length1="1.5"/>
+        <arc x="-20" angle="90" width="10" start="0" height="10" y="30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="-15" y2="24" end1="none" end2="none" x2="-47" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="30" length1="1.5"/>
+        <line x1="-136" y2="36" end1="none" end2="none" x2="-136" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="40" length1="1.5"/>
+        <line x1="-24" y2="36" end1="none" end2="none" x2="-24" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="40" length1="1.5"/>
+        <line x1="-24" y2="34" end1="none" end2="none" x2="-54" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="36" length1="1.5"/>
+        <line x1="-136" y2="34" end1="none" end2="none" x2="-106" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="36" length1="1.5"/>
+        <line x1="-106" y2="34" end1="none" end2="none" x2="-54" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="34" length1="1.5"/>
+        <line x1="-106" y2="0" end1="none" end2="none" x2="-130" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="34" length1="1.5"/>
+        <line x1="-54" y2="0" end1="none" end2="none" x2="-30" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="34" length1="1.5"/>
+        <rect x="-134" width="108" height="8" y="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-130" width="100" height="6" y="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-102" width="44" height="2" y="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <line x1="-102" y2="-20" end1="none" end2="none" x2="-100" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-16" length1="1.5"/>
+        <line x1="-100" y2="-20" end1="none" end2="none" x2="-60" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-20" length1="1.5"/>
+        <line x1="-60" y2="-16" end1="none" end2="none" x2="-58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="-20" length1="1.5"/>
+        <circle x="-148" y="52" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" antialias="false"/>
+        <rect x="-10" width="2" height="22" y="37" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-10" width="2" height="25" y="68" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <line x1="-10" y2="40" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="40" length1="1.5"/>
+        <line x1="-10" y2="45" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="45" length1="1.5"/>
+        <line x1="-10" y2="56" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="56" length1="1.5"/>
+        <line x1="-10" y2="52" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="52" length1="1.5"/>
+        <line x1="-9" y2="75" end1="none" end2="none" x2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="75" length1="1.5"/>
+        <line x1="-10" y2="77" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="77" length1="1.5"/>
+        <line x1="-9" y2="86" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="86" length1="1.5"/>
+        <line x1="-10" y2="88" end1="none" end2="none" x2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="88" length1="1.5"/>
+        <rect x="-8" width="12" height="20" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="4" width="3" height="18" y="39" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <arc x="4" angle="90" width="6" start="0" height="18" y="39" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="4" angle="90" width="6" start="270" height="18" y="39" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <rect x="-8" width="2" height="23" y="69" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-6" width="3" height="25" y="68" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="-3" width="4" height="27" y="67" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <arc x="4" angle="90" width="6" start="0" height="4" y="68" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="4" angle="90" width="6" start="270" height="5" y="88" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="10" y2="90" end1="none" end2="none" x2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="70" length1="1.5"/>
+        <line x1="7" y2="93" end1="none" end2="none" x2="1" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="93" length1="1.5"/>
+        <line x1="7" y2="68" end1="none" end2="none" x2="1" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="68" length1="1.5"/>
+        <arc x="27" angle="178.813" width="6" start="91.125" height="5" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="27" angle="90" width="6" start="0" height="6" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="27" angle="52.625" width="6" start="307.313" height="6" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="27" angle="90" width="6" start="0" height="6" y="79" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="27" angle="90" width="6" start="270" height="6" y="79" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="30" y2="74" end1="none" end2="none" x2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="74" length1="1.5"/>
+        <line x1="30" y2="85" end1="none" end2="none" x2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="85" length1="1.5"/>
+        <arc x="40" angle="90" width="8" start="180" height="6" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="40" angle="90" width="6" start="90" height="6" y="74" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="42" angle="90" width="4" start="0" height="4" y="80" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="40" angle="90" width="6" start="270" height="6" y="79" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <arc x="40" angle="146.563" width="6" start="123.313" height="6" y="79" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line x1="63" y2="90" end1="none" end2="none" x2="63" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="70" length1="1.5"/>
+        <line x1="63" y2="65" end1="none" end2="none" x2="90" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="69" length1="1.5"/>
+        <line x1="63" y2="95" end1="none" end2="none" x2="90" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="90" length1="1.5"/>
+        <rect x="90" width="12" height="34" y="63" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="102" width="9" height="30" y="65" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <rect x="111" width="7" height="34" y="63" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" ry="0"/>
+        <ellipse x="130" width="60" height="58" y="51" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="152" y2="60" end1="none" end2="none" x2="152" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="52" length1="1.5"/>
+        <line x1="168" y2="52" end1="none" end2="none" x2="168" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="60" length1="1.5"/>
+        <line x1="152" y2="60" end1="none" end2="none" x2="168" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y1="60" length1="1.5"/>
+        <circle x="144" y="59" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="4" antialias="false"/>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="141" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="104" y="55" Valignment="AlignTop" text_from="UserText">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="135" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="106" y="64" Valignment="AlignTop" text_from="UserText">
+            <text>3</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="134" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="107" y="84" Valignment="AlignTop" text_from="UserText">
+            <text>12</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="148" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="108" y="84" Valignment="AlignTop" text_from="UserText">
+            <text>13</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="160" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="109" y="84" Valignment="AlignTop" text_from="UserText">
+            <text>14</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="174" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="110" y="84" Valignment="AlignTop" text_from="UserText">
+            <text>15</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="140" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="111" y="94" Valignment="AlignTop" text_from="UserText">
+            <text>16</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="154" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="112" y="94" Valignment="AlignTop" text_from="UserText">
+            <text>17</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="168" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="113" y="94" Valignment="AlignTop" text_from="UserText">
+            <text>18</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="169" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="114" y="55" Valignment="AlignTop" text_from="UserText">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="179" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="115" y="74" Valignment="AlignTop" text_from="UserText">
+            <text>11</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="146" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="116" y="64" Valignment="AlignTop" text_from="UserText">
+            <text>4</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="164" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="117" y="64" Valignment="AlignTop" text_from="UserText">
+            <text>5</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="175" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="118" y="64" Valignment="AlignTop" text_from="UserText">
+            <text>6</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="119" y="74" Valignment="AlignTop" text_from="UserText">
+            <text>7</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="156" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="120" y="74" Valignment="AlignTop" text_from="UserText">
+            <text>9</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="165" rotation="0" frame="false" uuid="{9367b381-79b0-4d37-95ca-85d023f5abb8}" font="MS Shell Dlg 2,2,-1,5,50,0,0,0,0,0,Normale" z="121" y="74" Valignment="AlignTop" text_from="UserText">
+            <text>10</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-330" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 1    1</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-335" Valignment="AlignTop" text_from="UserText">
+            <text>OR/WH</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="60" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-110" Valignment="AlignTop" text_from="UserText">
+            <text>+24V    12</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-290" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 3    3</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-270" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 4    4</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="70" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-250" Valignment="AlignTop" text_from="UserText">
+            <text>Start    5</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-230" Valignment="AlignTop" text_from="UserText">
+            <text>Standby Input   6</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-210" Valignment="AlignTop" text_from="UserText">
+            <text>Auxiliary Output 7</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-190" Valignment="AlignTop" text_from="UserText">
+            <text>Warning Output 8</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-130" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 8  11</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-10" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 4  17</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-30" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 6  16</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="60" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-50" Valignment="AlignTop" text_from="UserText">
+            <text>EDM     15</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="70" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-70" Valignment="AlignTop" text_from="UserText">
+            <text>0V     14</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-90" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 5  13</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="50" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-150" Valignment="AlignTop" text_from="UserText">
+            <text>OSSD B   10</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="10" Valignment="AlignTop" text_from="UserText">
+            <text>Funtional earth 18</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="50" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-170" Valignment="AlignTop" text_from="UserText">
+            <text>OSSD A     9</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-15" Valignment="AlignTop" text_from="UserText">
+            <text>OR</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="20" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,7,-1,5,50,0,0,0,0,0,Normale" z="122" y="-310" Valignment="AlignTop" text_from="UserText">
+            <text>Zone Select 2    2</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-315" Valignment="AlignTop" text_from="UserText">
+            <text>OR/BK</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-295" Valignment="AlignTop" text_from="UserText">
+            <text>GY</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-275" Valignment="AlignTop" text_from="UserText">
+            <text>PK</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-255" Valignment="AlignTop" text_from="UserText">
+            <text>BK</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-235" Valignment="AlignTop" text_from="UserText">
+            <text>VT</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-215" Valignment="AlignTop" text_from="UserText">
+            <text>BU</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-195" Valignment="AlignTop" text_from="UserText">
+            <text>RD/BK</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-175" Valignment="AlignTop" text_from="UserText">
+            <text>RD</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-155" Valignment="AlignTop" text_from="UserText">
+            <text>YE</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-135" Valignment="AlignTop" text_from="UserText">
+            <text>BU/WH</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-115" Valignment="AlignTop" text_from="UserText">
+            <text>WH</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-95" Valignment="AlignTop" text_from="UserText">
+            <text>WH/BK</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-75" Valignment="AlignTop" text_from="UserText">
+            <text>BN</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-55" Valignment="AlignTop" text_from="UserText">
+            <text>BN/WH</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="-35" Valignment="AlignTop" text_from="UserText">
+            <text>TAN</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" Halignment="AlignLeft" x="130" rotation="0" frame="false" uuid="{cba78754-83ad-46c5-a6fc-e2471cf1aebd}" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Normale" z="122" y="5" Valignment="AlignTop" text_from="UserText">
+            <text>GN</text>
+        </dynamic_text>
+        <line x1="106" y2="64" end1="circle" end2="circle" x2="114" length2="1.5" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" y1="28" length1="1.5"/>
+        <terminal x="130" orientation="e" y="-260"/>
+        <terminal x="130" orientation="e" y="20"/>
+        <terminal x="130" orientation="e" y="0"/>
+        <terminal x="130" orientation="e" y="-180"/>
+        <terminal x="130" orientation="e" y="-20"/>
+        <terminal x="130" orientation="e" y="-100"/>
+        <terminal x="130" orientation="e" y="-240"/>
+        <terminal x="130" orientation="e" y="-220"/>
+        <terminal x="130" orientation="e" y="-200"/>
+        <terminal x="130" orientation="e" y="-40"/>
+        <terminal x="130" orientation="e" y="-140"/>
+        <terminal x="130" orientation="e" y="-280"/>
+        <terminal x="130" orientation="e" y="-80"/>
+        <terminal x="130" orientation="e" y="-60"/>
+        <terminal x="130" orientation="e" y="-300"/>
+        <terminal x="130" orientation="e" y="-120"/>
+        <terminal x="130" orientation="e" y="-320"/>
+        <terminal x="130" orientation="e" y="-160"/>
+    </description>
+</definition>
